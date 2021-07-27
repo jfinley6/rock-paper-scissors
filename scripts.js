@@ -47,10 +47,12 @@ function singleRound() {
         alert("The game is over. You are the victor!");
         playerWins = 0;
         computerWins =0;
+        alert("Thanks for playing!");
     }   else if (computerWins == 3) {
         alert("The game is over. The computer is the victor...")
         playerWins = 0;
         computerWins =0;
+        alert("Thanks for playing!");
     }   else {
         singleRound();
     }
