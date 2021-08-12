@@ -1,5 +1,4 @@
 let moves = ['Rock', 'Paper', 'Scissors'];
-let weapons = {};
 
 function computerPlay() {
     randomMove = moves[Math.floor(Math.random()*moves.length)];
