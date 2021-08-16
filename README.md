@@ -1,1 +1,1 @@
-# rock paper scissors
+# Rock paper scissors with a simple UI. Player selects there hand and a winner is chosen. Keep choosing a hand until either the player or computer scores. At this point the game is over and you can then click the reset button to start over.
